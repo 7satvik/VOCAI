@@ -51,7 +51,7 @@ Get your free Groq API key from [console.groq.com](https://console.groq.com)
 
 ## Live Demo
 
-https://dahipyaz.web.app
+ https://vocai-22270.web.app
 
 ## License
 
